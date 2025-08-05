@@ -10,4 +10,5 @@ analytics about user behaviour, patterns, performance bottlenecks & more.
 ## Socials
 
 [![BlueSky](https://img.shields.io/badge/Bsky.app-2CA5E0?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/o11y.one)
+[![Youtube.com](https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@o11y-one-platform)
 [![Cal.com](https://img.shields.io/badge/Cal.com-000000?style=flat-square&logo=caldotcom&logoColor=white)](https://cal.com/o11y.one)
