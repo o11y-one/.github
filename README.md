@@ -2,10 +2,48 @@
 
 <img width="5195" height="2827" alt="banner-github" src="https://github.com/user-attachments/assets/9f382e30-a1d0-4a05-9295-78a1aebec084" />
 
-o11y.one is The Observability platform to help engineering & product teams navigate product development lifecycle.
-o11y not only helps with logs, metrics, traces, co-relation between different signals, but also production analytics,
-feature-flags, & session replays. We also have a dynamic & performant query engine, that enables you to query rich
-analytics about user behaviour, patterns, performance bottlenecks & more.
+## **O11y One** — The Next-Generation Unified Observability Platform for the AI + Product Era
+
+**O11y One** is a modern, end-to-end observability platform built to help companies of all sizes **streamline their
+product lifecycle, optimize AI/LLM performance, and run production environments with confidence** — all while paying a
+fraction of what legacy vendors (<Any "Logs" Vendor>) charge.
+
+It unifies **all OpenTelemetry, Product and AI-specific signals** into a single, high-performance data plane:
+
+- **LLM & AI observability** to ensure deterministic agent outputs, surface hidden costs, and detect performance
+  bottlenecks before they impact users
+- **Traces** for distributed system & model execution analysis
+- **Metrics** for system health and model performance monitoring
+- **Logs** for granular debugging and fine-tuning insights
+- **Generic events** for business telemetry and custom workflows
+- **Session replays** for UX and conversation analysis
+- **Feature flags** for controlled experimentation and model rollouts
+
+### **Core Technology Stack**
+
+- **OpenTelemetry** for standardised, high-quality, & battle-tested telemetry.
+- **Rust** for ultra-low-latency ingestion, processing, and fault tolerance
+- **Apache Arrow** for in-memory, zero-copy analytics
+- **Apache Parquet** for compact, query-optimized long-term storage with incremental writes
+- **DataFusion** for powerful SQL-based cross-signal and cross-model correlations
+
+### **Key Features & Advantages**
+
+- **AI & LLM performance tracking** — monitor token usage, cost per request, latency, and output quality in real time
+- **Deterministic output assurance** — correlate input prompts, context, and output variations to stabilize agent
+  behavior
+- **Multi-tenant isolation** with Hive-style partitioning for secure, efficient organization
+- **Edge-optimized OTLP exporters** for low-latency, lossless signal forwarding
+- **Schema-aware pipelines** that adapt to evolving AI and product telemetry
+- **Real-time + historical analytics** in one unified interface
+- **Type-safe instrumentation wrappers** for SvelteKit, Python, Go, Rust, Cloudlfare Workers, and any backend services
+- **Unified correlation engine** — connect traces ↔ logs ↔ metrics ↔ events ↔ replays ↔ AI outputs in one timeline
+- **State-of-the-art cost efficiency** — thanks to our Rust + Arrow + DataFusion core, you get **High value insights at
+  a fraction of the cost**
+
+By collapsing fragmented observability stacks into a **blazingly fast**, **cost-efficient**, and **AI-ready** platform,
+**O11y One** transforms how teams monitor, debug, and improve both software systems and AI agents — making it easier
+to **ship faster, run cheaper, and deliver reliably**.
 
 ## Socials
 
