@@ -1,12 +1,12 @@
 # o11y.one - The only observability tool you'll ever need
 
-<img width="5195" height="2827" alt="banner-github" src="https://github.com/user-attachments/assets/9f382e30-a1d0-4a05-9295-78a1aebec084" />
+<img width="5195" height="2827" alt="olly-light-banner" src="https://github.com/user-attachments/assets/3d3c2cc5-d7ef-4902-8f59-7415a4139f71" />
 
 ## **O11y One** — The Next-Generation Unified Observability Platform for the AI + Product Era
 
 **O11y One** is a modern, end-to-end observability platform built to help companies of all sizes **streamline their
 product lifecycle, optimize AI/LLM performance, and run production environments with confidence** — all while paying a
-fraction of what legacy vendors (<Any "Logs" Vendor>) charge.
+fraction of what legacy vendors (<Insert any "Logs" vendor here>) charge.
 
 It unifies **all OpenTelemetry, Product and AI-specific signals** into a single, high-performance data plane:
 
