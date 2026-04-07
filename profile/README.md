@@ -1,6 +1,6 @@
 # o11y.one - The only observability tool you'll ever need
 
-<img width="5195" height="2827" alt="olly-light-banner" src="https://github.com/user-attachments/assets/3d3c2cc5-d7ef-4902-8f59-7415a4139f71" />
+![o11y-one-website](https://github.com/user-attachments/assets/b42cdf4e-59f3-4e1a-9432-9227e518cffa)
 
 ## **O11y One** — The Next-Generation Unified Observability Platform for the AI + Product Era
 
