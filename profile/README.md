@@ -25,5 +25,5 @@ to **ship faster, run cheaper, and deliver reliably**.
 
 [![BlueSky](https://img.shields.io/badge/Bsky.app-2CA5E0?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/o11y.one)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/GJYkFD2H)
-[![Youtube.com](https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@o11y-one-platform)
+[![Youtube.com](https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@o11y-one-data)
 [![Cal.com](https://img.shields.io/badge/Cal.com-000000?style=flat-square&logo=caldotcom&logoColor=white)](https://cal.com/o11y.one)
