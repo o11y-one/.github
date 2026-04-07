@@ -4,19 +4,18 @@
 
 ## **O11y One** — The Next-Generation Unified Observability Platform for the AI + Product Era
 
-O11y One helps teams stop playing hide-and-seek with production problems. We pull traces, logs, metrics, service maps, deployments, dashboards, and AI usage into one place, so you can go from “something’s weird” to “there’s the culprit” without tab-hopping yourself into a second incident.
+O11y One is for teams tired of debugging with five tools, twelve tabs, and one growing sense of dread. We bring traces, logs, metrics, product analytics, deployments, service maps, dashboards, alerts, and AI/LLM usage into one place, so you can stop asking “where do I even look?” and get straight to “there’s the culprit.”
 
-It unifies **all OpenTelemetry, Product and AI-specific signals** into a single, high-performance data plane:
+Instrument once, correlate across product, platform, and AI, and move from weird signal to useful answer without playing telemetry treasure hunt.
 
-- All signal, less scavenger hunt: traces, logs, metrics, and AI telemetry live together instead of in separate little kingdoms.
-- Query first, panic later: realtime + historical queries, SQL, log search, trace drilldowns, timeseries, and bubble-up analysis.
-- Service maps that just work: service discovery, dependencies, neighborhoods, golden signals, and health scores.
-- SLOs with teeth: targets, burn rates, alerts, deployment markers, and incident context packs for faster triage.
-- Dashboards without dashboard drama: templates, versioning, sharing, permissions, favorites, and per-service dashboards.
-- AI observability without vibe-based debugging: model/provider usage, token counts, costs, request volume, and error tracking.
-- Friendly to humans, useful to agents: MCP tools for Codex/Claude-style workflows, scoped auth, and auditable actions.
-- Team-ready, not “coming soon” ready: orgs, teams, invites, passkeys, email OTP, Google sign-in, and enterprise SSO.
-- Fast where it counts: Rust, OpenTelemetry, Arrow, Parquet, and DataFusion underneath, so latency and bills don’t do cardio.
+- One telemetry plane: logs, traces, metrics, product analytics, and AI telemetry in one workspace.
+- Query without guesswork: realtime and historical queries, SQL, log search, trace drilldowns, timeseries, and bubble-up analysis.
+- Service maps with receipts: service discovery, dependencies, golden signals, health scores, and deployment context.
+- Incident context minus the context switching: SLOs, burn rates, alerts, deployment markers, and investigation packs.
+- Dashboards that pull their weight: templates, versioning, sharing, permissions, and per-service views.
+- AI observability that is not just vibes: token usage, model costs, latency, request volume, tool calls, and failures.
+- Built for humans and agents: MCP-powered investigation workflows with scoped access and auditable actions.
+- Team-ready from day one: orgs, teams, invites, passkeys, email OTP, Google sign-in, and enterprise SSO.
 
 By collapsing fragmented observability stacks into a **blazingly fast**, **cost-efficient**, and **AI-ready** platform,
 **O11y One** transforms how teams monitor, debug, and improve both software systems and AI agents — making it easier
