@@ -1,45 +1,22 @@
-# o11y.one - The only observability tool you'll ever need
+# O11y One | Product, platform, and AI observability without the tool sprawl
 
 ![o11y-one-website](https://github.com/user-attachments/assets/b42cdf4e-59f3-4e1a-9432-9227e518cffa)
 
 ## **O11y One** — The Next-Generation Unified Observability Platform for the AI + Product Era
 
-**O11y One** is a modern, end-to-end observability platform built to help companies of all sizes **streamline their
-product lifecycle, optimize AI/LLM performance, and run production environments with confidence** — all while paying a
-fraction of what legacy vendors (<Insert any "Logs" vendor here>) charge.
+O11y One helps teams stop playing hide-and-seek with production problems. We pull traces, logs, metrics, service maps, deployments, dashboards, and AI usage into one place, so you can go from “something’s weird” to “there’s the culprit” without tab-hopping yourself into a second incident.
 
 It unifies **all OpenTelemetry, Product and AI-specific signals** into a single, high-performance data plane:
 
-- **LLM & AI observability** to ensure deterministic agent outputs, surface hidden costs, and detect performance
-  bottlenecks before they impact users
-- **Traces** for distributed system & model execution analysis
-- **Metrics** for system health and model performance monitoring
-- **Logs** for granular debugging and fine-tuning insights
-- **Generic events** for business telemetry and custom workflows
-- **Session replays** for UX and conversation analysis
-- **Feature flags** for controlled experimentation and model rollouts
-
-### **Core Technology Stack**
-
-- **OpenTelemetry** for standardised, high-quality, & battle-tested telemetry.
-- **Rust** for ultra-low-latency ingestion, processing, and fault tolerance
-- **Apache Arrow** for in-memory, zero-copy analytics
-- **Apache Parquet** for compact, query-optimized long-term storage with incremental writes
-- **DataFusion** for powerful SQL-based cross-signal and cross-model correlations
-
-### **Key Features & Advantages**
-
-- **AI & LLM performance tracking** — monitor token usage, cost per request, latency, and output quality in real time
-- **Deterministic output assurance** — correlate input prompts, context, and output variations to stabilize agent
-  behavior
-- **Multi-tenant isolation** with Hive-style partitioning for secure, efficient organization
-- **Edge-optimized OTLP exporters** for low-latency, lossless signal forwarding
-- **Schema-aware pipelines** that adapt to evolving AI and product telemetry
-- **Real-time + historical analytics** in one unified interface
-- **Type-safe instrumentation wrappers** for SvelteKit, Python, Go, Rust, Cloudlfare Workers, and any backend services
-- **Unified correlation engine** — connect traces ↔ logs ↔ metrics ↔ events ↔ replays ↔ AI outputs in one timeline
-- **State-of-the-art cost efficiency** — thanks to our Rust + Arrow + DataFusion core, you get **High value insights at
-  a fraction of the cost**
+- All signal, less scavenger hunt: traces, logs, metrics, and AI telemetry live together instead of in separate little kingdoms.
+- Query first, panic later: realtime + historical queries, SQL, log search, trace drilldowns, timeseries, and bubble-up analysis.
+- Service maps that just work: service discovery, dependencies, neighborhoods, golden signals, and health scores.
+- SLOs with teeth: targets, burn rates, alerts, deployment markers, and incident context packs for faster triage.
+- Dashboards without dashboard drama: templates, versioning, sharing, permissions, favorites, and per-service dashboards.
+- AI observability without vibe-based debugging: model/provider usage, token counts, costs, request volume, and error tracking.
+- Friendly to humans, useful to agents: MCP tools for Codex/Claude-style workflows, scoped auth, and auditable actions.
+- Team-ready, not “coming soon” ready: orgs, teams, invites, passkeys, email OTP, Google sign-in, and enterprise SSO.
+- Fast where it counts: Rust, OpenTelemetry, Arrow, Parquet, and DataFusion underneath, so latency and bills don’t do cardio.
 
 By collapsing fragmented observability stacks into a **blazingly fast**, **cost-efficient**, and **AI-ready** platform,
 **O11y One** transforms how teams monitor, debug, and improve both software systems and AI agents — making it easier
